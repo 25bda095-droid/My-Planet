@@ -1,93 +1,112 @@
 # 📘 Linear Algebra Learning Hub
 
-Welcome to my **Linear Algebra resource collection** for students (especially DSAI / AI / CS learners).
-
-This repository contains carefully selected books and a structured guide to help you master Linear Algebra effectively.
+A structured collection of **Linear Algebra books + study guide** for DSAI / AI / CS students.
 
 ---
 
-## 📂 Available Books
+## 📂 Books Available
 
-### 📗 1. Linear Algebra and Its Applications — David C. Lay
+### 📗 Linear Algebra and Its Applications — David C. Lay (6th Edition)
 
 🔗 [Open PDF](./LinearAlgebraAndItsApplications.pdf)
 
-✔ Best for beginners
-✔ Easy explanations + applications
-✔ Highly recommended for AI / ML students
+✔ Beginner-friendly
+✔ Best for applications (AI / ML)
+✔ Covers matrices, vectors, eigenvalues clearly
 
 ---
 
-### 📘 2. Linear Algebra — Hoffman & Kunze
+### 📘 Linear Algebra Done Right — Sheldon Axler (4th Edition)
+
+🔗 [Open PDF](./Sheldon.pdf)
+
+✔ Modern & updated (latest edition)
+✔ Focus on concepts (not just calculations)
+✔ Best for understanding vector spaces deeply
+
+---
+
+### 📕 Linear Algebra — Hoffman & Kunze (2nd Edition)
 
 🔗 [Open PDF](./Hoffman%20%26%20Kunze%20—%20Linear%20Algebra.pdf)
 
-✔ Deep mathematical understanding
+✔ Classic & rigorous
 ✔ Strong theoretical foundation
 ✔ Recommended for advanced learners
 
 ---
 
-## 🧠 How to Use These Books (IMPORTANT)
+## 🧠 How to Study (IMPORTANT)
 
 ### 🚀 Step 1: Start with David Lay
 
-* Focus on:
+Focus on:
 
-  * Vectors
-  * Matrices
-  * Systems of Equations
-  * Eigenvalues & Eigenvectors
+* Systems of Linear Equations
+* Matrices & Row Reduction
+* Determinants
+* Eigenvalues & Eigenvectors
 
-👉 Goal: Build **intuition + problem-solving skills**
-
----
-
-### ⚡ Step 2: Practice Daily
-
-* Solve at least **10–20 problems per day**
-* Don’t just read — **write and solve**
+👉 Goal: Build **strong basics + intuition**
 
 ---
 
-### 🔥 Step 3: Move to Hoffman & Kunze (Optional)
+### ⚡ Step 2: Strengthen Concepts with Axler
 
-* Only after basics are clear
-* Focus on:
+* Study vector spaces properly
+* Understand linear transformations
+* Focus on "why", not just "how"
 
-  * Vector Spaces
-  * Linear Transformations
-  * Abstract concepts
-
-👉 Goal: Build **deep mathematical thinking**
+👉 Goal: Build **deep understanding**
 
 ---
 
-## 🎯 Recommended Learning Path (DSAI / AI Students)
+### 🔥 Step 3: Master Theory (Optional)
+
+Use Hoffman & Kunze for:
+
+* Abstract algebra
+* Proof-based learning
+* Advanced concepts
+
+👉 Goal: Become **mathematically strong**
+
+---
+
+## 🎯 Best Path for DSAI / AI Students
 
 1. David Lay (Main Book) ✅
 2. Practice Problems Daily
-3. Apply in Python (NumPy, ML models)
-4. Then explore advanced theory
+3. Axler for Concept Depth
+4. Apply in Python (NumPy, ML)
+5. Optional: Hoffman & Kunze
 
 ---
 
 ## 💡 Pro Tips
 
-* 📌 Don’t memorize formulas — understand concepts
-* 📌 Visualize (use graphs, 3Blue1Brown videos)
-* 📌 Revise weekly
-* 📌 Focus more on **Eigenvalues & Vectors (very important for AI)**
+* 📌 Practice daily (very important)
+* 📌 Don’t skip eigenvalues & eigenvectors
+* 📌 Use visual learning (graphs, animations)
+* 📌 Apply concepts in coding
 
 ---
 
-## 🛠️ Bonus (Apply What You Learn)
+## 🛠️ Apply What You Learn
 
-Try implementing:
+Try:
 
-* Matrix multiplication in code
-* Solving linear equations using Python
-* Basic ML models
+* Matrix operations in Python
+* Solving systems using NumPy
+* Implementing simple ML models
+
+---
+
+## 📌 Notes
+
+* Axler (4th edition) is **latest & free officially**
+* Hoffman & Kunze is **old but very powerful**
+* David Lay is **best for beginners + AI students**
 
 ---
 
@@ -95,16 +114,16 @@ Try implementing:
 
 Feel free to:
 
-* Add more resources
-* Improve notes
-* Share learning tips
+* Add notes
+* Improve explanations
+* Share resources
 
 ---
 
-## 📌 Author
+## 👨‍💻 Author
 
 Maintained by **Rishav** 🚀
 
 ---
 
-> “Linear Algebra is not about numbers, it's about understanding spaces.”
+> “Linear Algebra is the foundation of AI, not just a subject.”
