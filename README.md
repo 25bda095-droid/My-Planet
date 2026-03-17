@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Sarthak's Cyber Security Vault ⚡</h1>
+<h1 align="center">⚡ Rishav Cyber Security Vault ⚡</h1>
 
 <p align="center">
   <b>🚀 Learn • Practice • Hack • Repeat</b><br>
