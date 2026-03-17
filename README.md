@@ -253,5 +253,5 @@ If you like this project:
 
 # 🔥 Author
 
-**Sarthak**  
+**Rishav Mishra**  
 Cyber Security Learner ⚡
