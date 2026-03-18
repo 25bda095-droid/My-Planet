@@ -50,7 +50,7 @@
 
 # Binary Trees
 -[Binary Trees](Binary-trees/Creation.cpp)
-Ongoing......(will update soon after completion)
+Binary trees basics Done you can see
 
 ---
 
