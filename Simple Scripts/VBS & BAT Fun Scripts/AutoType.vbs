@@ -1,48 +1,48 @@
-Set developer = CreateObject("WScript.Shell") 
-developer.run "Notepad" 
+Set rishav = CreateObject("WScript.Shell") 
+rishav.run "Notepad" 
 WScript.Sleep 100
-developer.sendkeys "H"
+rishav.sendkeys "H"
 WScript.Sleep 100
-developer.sendkeys "I"
+rishav.sendkeys "I"
 WScript.Sleep 100
-developer.sendkeys " "
+rishav.sendkeys " "
 WScript.Sleep 100
-developer.sendkeys "T"
+rishav.sendkeys "T"
 WScript.Sleep 100
-developer.sendkeys "H"
+rishav.sendkeys "H"
 WScript.Sleep 100
-developer.sendkeys "I"
+rishav.sendkeys "I"
 WScript.Sleep 100
-developer.sendkeys "S"
+rishav.sendkeys "S"
 WScript.Sleep 100
-developer.sendkeys " "
+rishav.sendkeys " "
 WScript.Sleep 100
-developer.sendkeys "I"
+rishav.sendkeys "I"
 WScript.Sleep 100
-developer.sendkeys "S"
+rishav.sendkeys "S"
 WScript.Sleep 100
-developer.sendkeys " "
+rishav.sendkeys " "
 WScript.Sleep 100
-developer.sendkeys "A"
+rishav.sendkeys "A"
 WScript.Sleep 100
-developer.sendkeys "U"
+rishav.sendkeys "U"
 WScript.Sleep 100
-developer.sendkeys "T"
+rishav.sendkeys "T"
 WScript.Sleep 100
-developer.sendkeys "O"
+rishav.sendkeys "O"
 WScript.Sleep 100
-developer.sendkeys "T"
+rishav.sendkeys "T"
 WScript.Sleep 100
-developer.sendkeys "Y"
+rishav.sendkeys "Y"
 WScript.Sleep 100
-developer.sendkeys "P"
+rishav.sendkeys "P"
 WScript.Sleep 100
-developer.sendkeys "I"
+rishav.sendkeys "I"
 WScript.Sleep 100
-developer.sendkeys "N"
+rishav.sendkeys "N"
 WScript.Sleep 100
-developer.sendkeys "G"
+rishav.sendkeys "G"
 WScript.Sleep 100
-developer.sendkeys "!"
+rishav.sendkeys "!"
 WScript.Sleep 100
-developer.sendkeys "!"
+rishav.sendkeys "!"

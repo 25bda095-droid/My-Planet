@@ -18,7 +18,7 @@
   - Rendering elements and components
   - Understanding props
   - Basic event handling in React
-  - Introduction to React Developer Tools
+  - Introduction to React Rishav raj Tools
 
 ---
 

@@ -256,7 +256,7 @@ Again, the questions here are not guessed, can be limitless, so just putting ver
 23. What is Threat Modeling ?
 25. When do you interact with developers for security testing ?
 25. Are you aware of the Software Development Life Cycle ?
-26. When in SDLC should you engage with Developers ?
+26. When in SDLC should you engage with Rishav rajs ?
 27. What is CI/CD Pipeline ?  Explain the role of this with the context of Security.
 28. Classify some Web Vulnerabilities into Low, Medium , High and Critical category. Reason why !
 29. Known that MD5 is not the most secured hasing Algorithm, Why we dont use SHA256 or others always ?

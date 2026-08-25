@@ -46,7 +46,7 @@ print "\n-------------------------------------------\n";
 my %hash = (
     "name" => "John Doe",
     "age" => 30,
-    "occupation" => "Developer"
+    "occupation" => "Rishav raj"
 );
 print "Hash: name = $hash{'name'}, age = $hash{'age'}, occupation = $hash{'occupation'}\n";
 print "\n-------------------------------------------\n";
