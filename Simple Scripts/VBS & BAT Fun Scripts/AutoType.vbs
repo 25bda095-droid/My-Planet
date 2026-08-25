@@ -1,48 +1,48 @@
-Set raunak = CreateObject("WScript.Shell") 
-raunak.run "Notepad" 
+Set developer = CreateObject("WScript.Shell") 
+developer.run "Notepad" 
 WScript.Sleep 100
-raunak.sendkeys "H"
+developer.sendkeys "H"
 WScript.Sleep 100
-raunak.sendkeys "I"
+developer.sendkeys "I"
 WScript.Sleep 100
-raunak.sendkeys " "
+developer.sendkeys " "
 WScript.Sleep 100
-raunak.sendkeys "T"
+developer.sendkeys "T"
 WScript.Sleep 100
-raunak.sendkeys "H"
+developer.sendkeys "H"
 WScript.Sleep 100
-raunak.sendkeys "I"
+developer.sendkeys "I"
 WScript.Sleep 100
-raunak.sendkeys "S"
+developer.sendkeys "S"
 WScript.Sleep 100
-raunak.sendkeys " "
+developer.sendkeys " "
 WScript.Sleep 100
-raunak.sendkeys "I"
+developer.sendkeys "I"
 WScript.Sleep 100
-raunak.sendkeys "S"
+developer.sendkeys "S"
 WScript.Sleep 100
-raunak.sendkeys " "
+developer.sendkeys " "
 WScript.Sleep 100
-raunak.sendkeys "A"
+developer.sendkeys "A"
 WScript.Sleep 100
-raunak.sendkeys "U"
+developer.sendkeys "U"
 WScript.Sleep 100
-raunak.sendkeys "T"
+developer.sendkeys "T"
 WScript.Sleep 100
-raunak.sendkeys "O"
+developer.sendkeys "O"
 WScript.Sleep 100
-raunak.sendkeys "T"
+developer.sendkeys "T"
 WScript.Sleep 100
-raunak.sendkeys "Y"
+developer.sendkeys "Y"
 WScript.Sleep 100
-raunak.sendkeys "P"
+developer.sendkeys "P"
 WScript.Sleep 100
-raunak.sendkeys "I"
+developer.sendkeys "I"
 WScript.Sleep 100
-raunak.sendkeys "N"
+developer.sendkeys "N"
 WScript.Sleep 100
-raunak.sendkeys "G"
+developer.sendkeys "G"
 WScript.Sleep 100
-raunak.sendkeys "!"
+developer.sendkeys "!"
 WScript.Sleep 100
-raunak.sendkeys "!"
+developer.sendkeys "!"

@@ -43,7 +43,7 @@ class Customer
     end
 end
 
-obj1 = Customer.new(1,"raunak","new address")
+obj1 = Customer.new(1,"developer","new address")
 obj2 = Customer.new(2,"ponak","old address")
 
 obj1.printData()

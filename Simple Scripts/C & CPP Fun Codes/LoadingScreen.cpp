@@ -10,7 +10,7 @@ void loadingBar()
 
 	char a = 177, b = 219;
 	// cout<<"\n\n\n\n\n\t\t\t\t\tStudent's Data Management System";
-	cout << "\n\t\t\t\t\tLoading Screen By Raunak Gupta";
+	cout << "\n\t\t\t\t\tLoading Screen By Developer";
 	cout << "\n\n\n\t\t\t\t\tLoading...\n";
 	cout << endl;
 	cout << "\t\t\t\t\t";

@@ -8,7 +8,7 @@ This repository is a compilation of various scripts created to solve different p
 
 ## Table of Contents
 
-- [C & CPP Fun Codes](https://github.com/Raunaksplanet/My-CS-Store/tree/main/Simple%20Scripts/C%20%26%20CPP%20Fun%20Codes)
-- [Making TaskManager Unresponsive](https://github.com/Raunaksplanet/My-CS-Store/tree/main/Simple%20Scripts/Making%20TaskManager%20Unresponsive)
-- [VBS & BAT Fun Scripts](https://github.com/Raunaksplanet/My-CS-Store/tree/main/Simple%20Scripts/VBS%20%26%20BAT%20Fun%20Scripts)
-- [YT-Playlist-download.py](https://github.com/Raunaksplanet/My-CS-Store/blob/main/Simple%20Scripts/YT-Playlist-download.py)
+- [C & CPP Fun Codes](https://github.com/developer/repo/tree/main/Simple%20Scripts/C%20%26%20CPP%20Fun%20Codes)
+- [Making TaskManager Unresponsive](https://github.com/developer/repo/tree/main/Simple%20Scripts/Making%20TaskManager%20Unresponsive)
+- [VBS & BAT Fun Scripts](https://github.com/developer/repo/tree/main/Simple%20Scripts/VBS%20%26%20BAT%20Fun%20Scripts)
+- [YT-Playlist-download.py](https://github.com/developer/repo/blob/main/Simple%20Scripts/YT-Playlist-download.py)
