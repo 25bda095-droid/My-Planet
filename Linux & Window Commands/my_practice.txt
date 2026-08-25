@@ -1,0 +1,26 @@
+___________________________________________________________________________________________________________________________
+________________________________________________LINUX COMMANDS_____________________________________________________________
+
+1--Basic Linux COMMANDS
+    "ls" - List file or storage in current directory
+    "ll" or "ls -l /" - both for long list or to get detailed file view
+    "cd" - To change directory
+    "pwd" -  to see present working directory
+    "cd .." -  To go back from current file directory
+    "cd /" -  for going to main directory/root folder
+
+2--For Editing and accessing + creating files
+     "nvim or nano"-- we use both to edit files (use nvim more better)
+     "touch filename" - To create any file
+     "nvim filename or nano filename" - To edit the file and save it
+     "df -h" - To check storage
+     "du -sh filename" - To check any file storage
+     "ls -a" - TO see hidden files
+     "ls -la" - To see hidden+detailed view of files
+     "cd ~" - To go to home folder
+
+3-- For Accessing And Creating files  
+     "mkdir filename" - To create any folder
+     "cp file1 file2" - to rename/move file name (old name | new name)
+     "rm filename" - To delete any files
+     "rm -r foldername" - to delete any foldersc
